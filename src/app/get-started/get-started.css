@@ -1,0 +1,41 @@
+.strip {
+    background: var(--btn-dark, #2b0c0c);
+    padding: 22px 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+.strip-stat {
+    text-align: center;
+    color: #fff;
+}
+
+.strip-stat strong {
+    display: block;
+    font-family: 'Instrument Serif', serif;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 4px;
+}
+
+.strip-stat span {
+    font-size: 0.8rem;
+    font-weight: 500;
+    opacity: 0.6;
+    letter-spacing: 0.5px;
+}
+
+.strip-divider {
+    width: 1px;
+    height: 40px;
+    background: rgba(255,255,255,0.12);
+}
+
+@media (max-width: 768px) {
+    .strip { gap: 30px; padding: 22px 24px; }
+    .strip-divider { display: none; }
+}
