@@ -90,16 +90,37 @@ LANDING PAGE/
 ---
 
 # 📸 Screenshots
+# 📸 Screenshots
 
 ---
 
 ## 🏠 Hero Section
 
-## 🏠 Hero Section
-
-![Hero Section](./screenshots/01.hero-section.png)
+![Hero Section](./screenshots/hero.png)
 
 ---
+
+## 💬 Testimonials Section
+
+![Testimonials Section](./screenshots/testimonials.png)
+
+---
+
+## ⚙️ How It Works Section
+
+![How It Works](./screenshots/how-it-works.png)
+
+---
+
+## ❓ FAQ Section
+
+![FAQ Section](./screenshots/faq.png)
+
+---
+
+## 📱 App Showcase Section
+
+![App Showcase](./screenshots/app-showcase.png)
 
 ## 💬 Testimonials Section
 
