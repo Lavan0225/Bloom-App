@@ -95,11 +95,33 @@ LANDING PAGE/
 
 ## 🏠 Hero Section
 
-The hero section introduces users to the Bloom meditation platform with a calming UI and motivational message.
+## 🏠 Hero Section
 
 ![Hero Section](./screenshots/01.hero-section.png)
 
 ---
+
+## 💬 Testimonials Section
+
+![Testimonials Section](./screenshots/02.testimonials-section.png)
+
+---
+
+## ⚙️ How It Works Section
+
+![How It Works](./screenshots/03.how-it-works.png)
+
+---
+
+## ❓ FAQ Section
+
+![FAQ Section](./screenshots/04.faq-section.png)
+
+---
+
+## 📱 App Showcase Section
+
+![App Showcase](./screenshots/05.app-showcase.png)
 
 ## 💬 Testimonials Section
 
