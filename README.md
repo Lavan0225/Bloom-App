@@ -90,10 +90,6 @@ LANDING PAGE/
 ---
 
 # 📸 Screenshots
-# 📸 Screenshots
-
----
-
 ## 🏠 Hero Section
 
 ![Hero Section](./screenshots/hero.png)
@@ -122,59 +118,6 @@ LANDING PAGE/
 
 ![App Showcase](./screenshots/app-showcase.png)
 
-## 💬 Testimonials Section
-
-![Testimonials Section](./screenshots/02.testimonials-section.png)
-
----
-
-## ⚙️ How It Works Section
-
-![How It Works](./screenshots/03.how-it-works.png)
-
----
-
-## ❓ FAQ Section
-
-![FAQ Section](./screenshots/04.faq-section.png)
-
----
-
-## 📱 App Showcase Section
-
-![App Showcase](./screenshots/05.app-showcase.png)
-
-## 💬 Testimonials Section
-
-Displays positive user reviews and meditation experiences in a modern card-based layout.
-
-![Testimonials Section](./screenshots/02.testimonials-section.png)
-
----
-
-## ⚙️ How It Works Section
-
-Explains how users can begin their mindfulness journey using guided meditation sessions.
-
-![How It Works](./screenshots/03.how-it-works.png)
-
----
-
-## ❓ FAQ Section
-
-Provides answers to commonly asked questions with a clean and user-friendly interface.
-
-![FAQ Section](./screenshots/04.faq-section.png)
-
----
-
-## 📱 App Showcase Section
-
-Highlights the Bloom meditation mobile application interface and meditation progress tracking system.
-
-![App Showcase](./screenshots/05.app-showcase.png)
-
----
 
 # ⚙️ Installation & Setup
 
